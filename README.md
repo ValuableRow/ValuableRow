@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate developer from Germany who has just finished le wagon coding bootcamp.</h3>
+<h1 align="center">Hi, I'm Chris 👋</h1>
+<h3 align="center">A passionate developer from Germany who has just finished Le Wagon coding bootcamp.</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
